@@ -195,9 +195,3 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
-d3.js/main_solution.js
-d3.js/main.py
-js_basics/index_solution.html
-js_basics/main_solution.js
-js_basics/style_solution.css
-
